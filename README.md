@@ -3,7 +3,7 @@
 * Design: Website com HTML + CSS
 
 ## Processo de desenvolvimento de software ágil
-## Objetivos
+### Objetivos
 * Definir de um processo de desenvolvimento de software ágil
 * Formatos
   * Texto
