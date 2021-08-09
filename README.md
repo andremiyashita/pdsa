@@ -1,5 +1,9 @@
 # Processo de desenvolvimento de software ágil
 
+## Software: Chatbot
+* Linguagem de programação: Python
+* Design: Website com HTML + CSS
+
 ## Objetivos
 * Definir de um processo de desenvolvimento de software ágil
 * Formatos
