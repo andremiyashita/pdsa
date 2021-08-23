@@ -3,7 +3,7 @@
  * Matheus Guedes
  * Ricardo Junior
 
-## Software: Chatbot
+## Software: Chatbot - Helpdesk
 * Linguagem de programação: Python
 * Design: Website com HTML + CSS
 
