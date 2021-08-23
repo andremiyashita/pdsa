@@ -4,7 +4,6 @@
 
 ## Processo de desenvolvimento de software ágil
 ### Objetivos
-* Definir de um processo de desenvolvimento de software ágil
+* Processo de desenvolvimento de software ágil - SCRUM
 * Formatos
-  * Texto
-  * Gráfico (BPM, diagrama de atividades)
+  * Diagrama de Atividades
