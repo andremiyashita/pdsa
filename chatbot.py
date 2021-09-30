@@ -1,12 +1,17 @@
 from chatterbot.trainers import ListTrainer # método responsável por permitir que uma lista de strings seja utilizada no processo de treinamento
 from chatterbot import ChatBot # Construtor da classe
+import pandas as pd
+
+data = open('treinamento_inicial.txt')
+data = data.readlines()
+treinamento = []
+for item in data:
+    treinamento.append(item)
 
 bot = ChatBot('roboTI', logic_adapters=['chatterbot.logic.BestMatch']) #instancia um objeto da classe chatbot
 
 conversa = ListTrainer(bot)
-conversa.train(['Oi', 'Olá eu sou o RoboTI o seu assistente em problemas de TI', 'Tudo bem?',
-            'Tudo ótimo, ficara melhor se eu puder lhe ajudar', 'Estou com problemas', 'Descreva melhor o que ocorre',
-                'Impressora', 'Sua impressora está com problemas... Ja verificou os cabos de energia e dados?'])
+conversa.train(treinamento)
 #Cria os itens iniciais de treinamento
 
 # bot.set_trainer(ListTrainer) #Configura para que seja passado como treinamento o array
