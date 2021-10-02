@@ -1,8 +1,7 @@
 Ola
-Oi, eu sou o RoboTI seu especialista em TI rsrs, Para iniciarmos descreve com poucas palavras o seu problema, por exemplo:' Impressora' ou 'Internet'
+Oi, eu sou o RoboTI seu especialista em TI rsrs, atualmente consigo te auxiliar em problemas de internet, impressora e parentes (computadores) que por algum motivo não querem mais ligar
 Oi
-Oi, eu sou o RoboTI seu especialista em TI rsrs, Para iniciarmos descreve com poucas palavras o seu problema, por exemplo:' Impressora' ou 'Internet'
-Impressora
+Oi, eu sou o RoboTI seu especialista em TI rsrs, atualmente consigo te auxiliar em problemas de internet, impressora e parentes (computadores) que por algum motivo não querem mais ligar
 Hmm... Vamos começar verificando os cabos de conexão da impressora, são 02, 1 é um cabo mais grosso que conecta a impressora a uma tomada, e outro conecta a impressora a um computador ou a uma tomada de cabo de rede, caso tais procedimentos foram feitos e nada foi resolvido, me diga "Realizei o procedimento e a impressora ainda não funciona"
 Minha impressora não funciona
 Hmm... Vamos começar verificando os cabos de conexão da impressora, são 02, 1 é um cabo mais grosso que conecta a impressora a uma tomada, e outro conecta a impressora a um computador ou a uma tomada de cabo de rede, caso tais procedimentos foram feitos e nada foi resolvido, me diga "Realizei o procedimento e a impressora ainda não funciona"
