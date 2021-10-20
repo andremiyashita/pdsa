@@ -5,6 +5,12 @@ import pandas as pd
 arquivo_de_treinamento = 'treinamento_inicial.txt'
 bot = ChatBot('roboTI', logic_adapters=['chatterbot.logic.BestMatch'])
 
+def menu_de_erros():
+    print("""Problemas comuns:
+    Internet Lenta, Estou sem Internet, Computador não liga,\n
+    Minha impressora não funciona, estou com problemas na impressora.
+            """)
+
 def get_lista_treinamento(caminho_arquivo):
     """Esta função define como o bot será treinado a partir de uma dada lista."""
     treinamento = []
@@ -29,6 +35,8 @@ if __name__ == "__main__":
         treina_bot(lista_treinamento)
     except Exception:
         pass
+    menu_de_erros
+    print("Para começar digite 'Ola', 'Oi', ou entre com um problema mencionado acima.")
     while True:
         try:
             pergunta = input('Usuário: ')
