@@ -2,27 +2,41 @@ from chatterbot.trainers import ListTrainer # método responsável por permitir 
 from chatterbot import ChatBot # Construtor da classe
 import pandas as pd
 
-data = open('treinamento_inicial.txt')
-data = data.readlines()
-treinamento = []
-for item in data:
-    treinamento.append(item)
+arquivo_de_treinamento = 'treinamento_inicial.txt'
+bot = ChatBot('roboTI', logic_adapters=['chatterbot.logic.BestMatch'])
 
-bot = ChatBot('roboTI', logic_adapters=['chatterbot.logic.BestMatch']) #instancia um objeto da classe chatbot
+def get_lista_treinamento(caminho_arquivo):
+    """Esta função define como o bot será treinado a partir de uma dada lista."""
+    treinamento = []
+    try:
+        data = open('treinamento_inicial.txt')
+        with open(lista, 'r', encoding='utf8', errors='ignore') as data:
+            for item in data.readlines():
+                treinamento.append(item)
+    except Exception:
+        pass
 
-conversa = ListTrainer(bot)
-conversa.train(treinamento)
-#Cria os itens iniciais de treinamento
+    return treinamento
 
-# bot.set_trainer(ListTrainer) #Configura para que seja passado como treinamento o array
-# bot.train(conversa) # Realiza o treinamento inicial com o array
+def treina_bot(lista_treinamento)
+    conversa = ListTrainer(bot)
+    conversa.train(lista_treinamento)
 
-#Cria um laço para que o bot interaja com o usuário
 
-while True:
-    pergunta = input('Usuário: ')
-    resposta = bot.get_response(pergunta)
-    if float(resposta.confidence) > 0.5:
-        print('RoboTI: ', resposta)
-    else:
-        print('Hmmm lamento, mas ainda não entendi direito')
+if __name__ == "__main__":
+
+    lista_treinamento = get_lista_treinamento(arquivo_de_treinamento)
+    try:
+        treina_bot(lista_treinamento)
+    except Exception:
+        pass
+    while True:
+        try:
+            pergunta = input('Usuário: ')
+        except Exception:
+            pass
+        resposta = bot.get_response(pergunta)
+        if float(resposta.confidence) > 0.5:
+            print('RoboTI: ', resposta)
+        else:
+            print('Hmmm lamento, mas ainda não entendi direito')
