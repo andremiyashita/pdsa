@@ -39,4 +39,4 @@ if __name__ == "__main__":
         if float(resposta.confidence) > 0.5:
             print('RoboTI: ', resposta)
         else:
-            print('Hmmm lamento, mas ainda não entendi direito')
+            print('RoboTI: Hmmm lamento, mas ainda não entendi direito')
