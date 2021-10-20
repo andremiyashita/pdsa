@@ -1,5 +1,5 @@
-from chatterbot.trainers import ListTrainer # método responsável por permitir que uma lista de strings seja utilizada no processo de treinamento
-from chatterbot import ChatBot # Construtor da classe
+from chatterbot.trainers import ListTrainer
+from chatterbot import ChatBot
 import pandas as pd
 
 arquivo_de_treinamento = 'treinamento_inicial.txt'
