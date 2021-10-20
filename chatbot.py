@@ -35,7 +35,7 @@ if __name__ == "__main__":
         treina_bot(lista_treinamento)
     except Exception:
         pass
-    menu_de_erros
+    menu_de_erros()
     print("Para começar digite 'Ola', 'Oi', ou entre com um problema mencionado acima.")
     while True:
         try:
