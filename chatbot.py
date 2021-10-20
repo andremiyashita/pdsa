@@ -9,7 +9,6 @@ def get_lista_treinamento(caminho_arquivo):
     """Esta função define como o bot será treinado a partir de uma dada lista."""
     treinamento = []
     try:
-        data = open('treinamento_inicial.txt')
         with open(lista, 'r', encoding='utf8', errors='ignore') as data:
             for item in data.readlines():
                 treinamento.append(item)
