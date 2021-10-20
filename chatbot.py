@@ -18,7 +18,7 @@ def get_lista_treinamento(caminho_arquivo):
 
     return treinamento
 
-def treina_bot(lista_treinamento)
+def treina_bot(lista_treinamento):
     conversa = ListTrainer(bot)
     conversa.train(lista_treinamento)
 
