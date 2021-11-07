@@ -1,7 +1,7 @@
 from chatterbot import ChatBot
 
 chatbot = ChatBot(
-    'CoronaBot',
+    'RoboTI',
     storage_adapter='chatterbot.storage.SQLStorageAdapter',
     logic_adapters=[
         'chatterbot.logic.MathematicalEvaluation',
@@ -16,7 +16,7 @@ chatbot = ChatBot(
     database_uri='sqlite:///database.sqlite3'
 )
 
-# Training With Own Questions 
+# Training With Own Questions
 from chatterbot.trainers import ListTrainer
 
 caminho_arquivo = 'treinamento_inicial.txt'
