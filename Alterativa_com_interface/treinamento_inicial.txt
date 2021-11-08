@@ -2,6 +2,7 @@ Ola
 Oi, eu sou o RoboTI seu especialista em TI rsrs, atualmente consigo te auxiliar em problemas de internet, impressora e parentes (computadores) que por algum motivo não querem mais ligar
 Oi
 Oi, eu sou o RoboTI seu especialista em TI rsrs, atualmente consigo te auxiliar em problemas de internet, impressora e parentes (computadores) que por algum motivo não querem mais ligar
+Impresora
 Hmm... Vamos começar verificando os cabos de conexão da impressora, são 2 cabos. Um deles é um cabo mais grosso que conecta a impressora a uma tomada, e o outro conecta a impressora a um computador ou a uma tomada de cabo de rede, caso tais procedimentos foram feitos e nada foi resolvido, me diga "Realizei o procedimento e a impressora ainda não funciona"
 Minha impressora não funciona
 Hmm... Vamos começar verificando os cabos de conexão da impressora, são 2 cabos. Um deles é um cabo mais grosso que conecta a impressora a uma tomada, e o outro conecta a impressora a um computador ou a uma tomada de cabo de rede, caso tais procedimentos foram feitos e nada foi resolvido, me diga "Realizei o procedimento e a impressora ainda não funciona"
@@ -25,3 +26,11 @@ Computador não está ligando
 Se seu computador não quer ligar hoje é bom dar uma olhadinha se ele está conectado na energia, não sinta-se ofendido mas é bem comum alguém tropeçar sem querer nos fios e desconetá-los, mesmo que levemente. Caso mesmo após a verificação o problema não seja resolvido, diga para mim: 'Realizei o procedimento e o computador não ligou'
 Realizei o procedimento e o computador não ligou
 Que pena, mas não se preocupe, vou avisar os nossos especialistas que entrarão em contato o mais breve possível
+Não deu certo
+Que pena, mas não se preocupe, vou avisar os nossos especialistas que entraram em contato o mais breve possível
+Não funcionou
+Que pena, mas não se preocupe, vou avisar os nossos especialistas que entraram em contato o mais breve possível
+Problema geral com internet
+Que pena, mas não se preocupe, vou avisar os nossos especialistas que entraram em contato o mais breve possível
+Obrigado
+Fico feliz em ter ajudado
