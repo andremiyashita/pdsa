@@ -1,19 +1,24 @@
+*Priorizada*
 Como usuário do RoboTI  
 Eu quero receber orientações automatizadas 
 Para resolver problemas simples de internet
 
+*Priorizada*
 Como usuário do RoboTI  
 Eu quero receber orientações automatizadas 
 Para resolver problemas simples de impressora
 
+*Priorizada*
 Como usuário do RoboTI 
 Eu quero receber orientações automatizadas 
 Para resolver problemas simples do meu computador
 
+
 Como usuário do RoboTI 
 Eu quero ser direcionado a um especialista em redes
 Para resolve problemas avançados de internet que não puderam ser resolvidos pelo chatbot
- 
+
+
 Como usuário do RoboTI 
 Eu quero ser direcionado a um técnico
 Para resolve problemas de impressora que não puderam ser resolvidos pelo chatbot
@@ -22,6 +27,7 @@ Como usuário do RoboTI
 Eu quero ser direcionado a um especialista em informática
 Para resolver problemas com meu computador que não puderam ser resolvidos pelo chatbot 
 
+*Priorizada*
 Como integrante do grupo de especialistas do RoboTI 
 Eu quero receber menos chamados triviais
 Para poder concentrar esforços em problemas que não puderam ser resolvidos pelo chatbot 
