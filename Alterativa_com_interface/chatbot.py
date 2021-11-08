@@ -1,5 +1,6 @@
 from chatterbot import ChatBot
 
+#Inicializando o objeto do bot
 chatbot = ChatBot(
     'RoboTI',
     storage_adapter='chatterbot.storage.SQLStorageAdapter',
@@ -16,9 +17,9 @@ chatbot = ChatBot(
     database_uri='sqlite:///database.sqlite3'
 )
 
-# Training With Own Questions
 from chatterbot.trainers import ListTrainer
 
+#Carregando arquivos de treinamento
 caminho_arquivo = 'treinamento_inicial.txt'
 treinamento = []
 try:
@@ -28,20 +29,11 @@ try:
 except Exception:
     pass
 
+#Realizando o treinamento
 trainer = ListTrainer(chatbot)
-
-# training_data_quesans = open('training_data/ques_ans.txt').read().splitlines()
-# training_data_personal = open('training_data/personal_ques.txt').read().splitlines()
 
 training_data = treinamento
 
 trainer.train(training_data)
 
-# Training With Corpus
-from chatterbot.trainers import ChatterBotCorpusTrainer
 
-trainer_corpus = ChatterBotCorpusTrainer(chatbot)
-
-# trainer_corpus.train(
-#     'chatterbot.corpus.english'
-# )
