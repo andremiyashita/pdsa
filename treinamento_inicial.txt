@@ -2,26 +2,35 @@ Ola
 Oi, eu sou o RoboTI seu especialista em TI rsrs, atualmente consigo te auxiliar em problemas de internet, impressora e parentes (computadores) que por algum motivo não querem mais ligar
 Oi
 Oi, eu sou o RoboTI seu especialista em TI rsrs, atualmente consigo te auxiliar em problemas de internet, impressora e parentes (computadores) que por algum motivo não querem mais ligar
-Hmm... Vamos começar verificando os cabos de conexão da impressora, são 02, 1 é um cabo mais grosso que conecta a impressora a uma tomada, e outro conecta a impressora a um computador ou a uma tomada de cabo de rede, caso tais procedimentos foram feitos e nada foi resolvido, me diga "Realizei o procedimento e a impressora ainda não funciona"
+Impresora
+Hmm... Vamos começar verificando os cabos de conexão da impressora, são 2 cabos. Um deles é um cabo mais grosso que conecta a impressora a uma tomada, e o outro conecta a impressora a um computador ou a uma tomada de cabo de rede, caso tais procedimentos foram feitos e nada foi resolvido, me diga "Realizei o procedimento e a impressora ainda não funciona"
 Minha impressora não funciona
-Hmm... Vamos começar verificando os cabos de conexão da impressora, são 02, 1 é um cabo mais grosso que conecta a impressora a uma tomada, e outro conecta a impressora a um computador ou a uma tomada de cabo de rede, caso tais procedimentos foram feitos e nada foi resolvido, me diga "Realizei o procedimento e a impressora ainda não funciona"
+Hmm... Vamos começar verificando os cabos de conexão da impressora, são 2 cabos. Um deles é um cabo mais grosso que conecta a impressora a uma tomada, e o outro conecta a impressora a um computador ou a uma tomada de cabo de rede, caso tais procedimentos foram feitos e nada foi resolvido, me diga "Realizei o procedimento e a impressora ainda não funciona"
 Estou com problemas na impressora
-Hmm... Vamos começar verificando os cabos de conexão da impressora, são 02, 1 é um cabo mais grosso que conecta a impressora a uma tomada, e outro conecta a impressora a um computador ou a uma tomada de cabo de rede, caso tais procedimentos foram feitos e nada foi resolvido, me diga "Realizei o procedimento e a impressora ainda não funciona"
+Hmm... Vamos começar verificando os cabos de conexão da impressora, são 2 cabos. Um deles é um cabo mais grosso que conecta a impressora a uma tomada, e o outro conecta a impressora a um computador ou a uma tomada de cabo de rede, caso tais procedimentos foram feitos e nada foi resolvido, me diga "Realizei o procedimento e a impressora ainda não funciona"
 Realizei o procedimento e a impressora ainda não funciona
 Que pena, vou te encaminhar a um dos nossos técnicos...
 Estou sem internet
-Quando o problema é internet é importante olhar o cabo azul ou amarelo (conhecido como cabo de rede) que conecta o seu computador a internet. Caso seu computador use o wifi, verifique se a rede está conectada. Outro ponto interessante é perguntar a seus colegas se alguém está com o problema, se for caso me diga 'Problema geral com a internet' que avisaeri os experts no assunto. 
+Quando o problema é internet é importante olhar o cabo azul ou amarelo (conhecido como cabo de rede) que conecta o seu computador a internet. Caso seu computador use o wifi, verifique se a rede está conectada. Outro ponto interessante é perguntar a seus colegas se alguém está com o mesmo problema, se esse for o caso me diga 'Problema geral com a internet' que avisarei os experts no assunto. 
 Internet
-Quando o problema é internet é importante olhar o cabo azul ou amarelo (conhecido como cabo de rede) que conecta o seu computador a internet. Caso seu computador use o wifi, verifique se a rede está conectada. Outro ponto interessante é perguntar a seus colegas se alguém está com o problema, se for caso me diga 'Problema geral com a internet' que avisaeri os experts no assunto. 
+Quando o problema é internet é importante olhar o cabo azul ou amarelo (conhecido como cabo de rede) que conecta o seu computador a internet. Caso seu computador use o wifi, verifique se a rede está conectada. Outro ponto interessante é perguntar a seus colegas se alguém está com o mesmo problema, se esse for o caso me diga 'Problema geral com a internet' que avisarei os experts no assunto. 
 Problema com internet
-Quando o problema é internet é importante olhar o cabo azul ou amarelo (conhecido como cabo de rede) que conecta o seu computador a internet. Caso seu computador use o wifi, verifique se a rede está conectada. Outro ponto interessante é perguntar a seus colegas se alguém está com o problema, se for caso me diga 'Problema geral com a internet' que avisaeri os experts no assunto. 
+Quando o problema é internet é importante olhar o cabo azul ou amarelo (conhecido como cabo de rede) que conecta o seu computador a internet. Caso seu computador use o wifi, verifique se a rede está conectada. Outro ponto interessante é perguntar a seus colegas se alguém está com o mesmo problema, se esse for o caso me diga 'Problema geral com a internet' que avisarei os experts no assunto. 
 Sem internet
-Quando o problema é internet é importante olhar o cabo azul ou amarelo (conhecido como cabo de rede) que conecta o seu computador a internet. Caso seu computador use o wifi, verifique se a rede está conectada. Outro ponto interessante é perguntar a seus colegas se alguém está com o problema, se for caso me diga 'Problema geral com a internet' que avisaeri os experts no assunto. 
+Quando o problema é internet é importante olhar o cabo azul ou amarelo (conhecido como cabo de rede) que conecta o seu computador a internet. Caso seu computador use o wifi, verifique se a rede está conectada. Outro ponto interessante é perguntar a seus colegas se alguém está com o mesmo problema, se esse for o caso me diga 'Problema geral com a internet' que avisarei os experts no assunto. 
 Internet lenta
-Quando o problema é internet é importante olhar o cabo azul ou amarelo (conhecido como cabo de rede) que conecta o seu computador a internet. Caso seu computador use o wifi, verifique se a rede está conectada. Outro ponto interessante é perguntar a seus colegas se alguém está com o problema, se for caso me diga 'Problema geral com a internet' que avisaeri os experts no assunto. 
+Quando o problema é internet é importante olhar o cabo azul ou amarelo (conhecido como cabo de rede) que conecta o seu computador a internet. Caso seu computador use o wifi, verifique se a rede está conectada. Outro ponto interessante é perguntar a seus colegas se alguém está com o mesmo problema, se esse for o caso me diga 'Problema geral com a internet' que avisarei os experts no assunto. 
 Computador não liga
-Se seu computador não quer ligar hoje é bom dar uma olhadinha se ele está conectado a internet, não sinta-se ofendido mas é bem comum alguém tropeçar sem querer nos fios e desconetar ele, mesmo que levemente. Caso mesmo após verificar o problema não seja resolvido, diga para mim: 'Realizei o procedimento e o computador não ligou'
+Se seu computador não quer ligar hoje é bom dar uma olhadinha se ele está conectado na energia, não sinta-se ofendido mas é bem comum alguém tropeçar sem querer nos fios e desconetá-los, mesmo que levemente. Caso mesmo após a verificação o problema não seja resolvido, diga para mim: 'Realizei o procedimento e o computador não ligou'
 Computador não está ligando
-Se seu computador não quer ligar hoje é bom dar uma olhadinha se ele está conectado a internet, não sinta-se ofendido mas é bem comum alguém tropeçar sem querer nos fios e desconetar ele, mesmo que levemente. Caso mesmo após verificar o problema não seja resolvido, diga para mim: 'Realizei o procedimento e o computador não ligou'
+Se seu computador não quer ligar hoje é bom dar uma olhadinha se ele está conectado na energia, não sinta-se ofendido mas é bem comum alguém tropeçar sem querer nos fios e desconetá-los, mesmo que levemente. Caso mesmo após a verificação o problema não seja resolvido, diga para mim: 'Realizei o procedimento e o computador não ligou'
 Realizei o procedimento e o computador não ligou
+Que pena, mas não se preocupe, vou avisar os nossos especialistas que entrarão em contato o mais breve possível
+Não deu certo
 Que pena, mas não se preocupe, vou avisar os nossos especialistas que entraram em contato o mais breve possível
+Não funcionou
+Que pena, mas não se preocupe, vou avisar os nossos especialistas que entraram em contato o mais breve possível
+Problema geral com internet
+Que pena, mas não se preocupe, vou avisar os nossos especialistas que entraram em contato o mais breve possível
+Obrigado
+Fico feliz em ter ajudado
