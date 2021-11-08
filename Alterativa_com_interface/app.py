@@ -12,12 +12,12 @@ def home():
 @app.route("/get")
 def get_bot_response():
     userText = request.args.get('msg')
-    resposta = bot.get_response(userText)
+    resposta = chatbot.get_response(userText)
     if float(resposta.confidence) > 0.5:
        return str(resposta)
     else:
         resposta = 'Hmmm lamento, mas ainda não entendi direito'
-        return str(chatbot.get_response(userText))
+        return str(resposta)
 
 
 if __name__ == "__main__":
